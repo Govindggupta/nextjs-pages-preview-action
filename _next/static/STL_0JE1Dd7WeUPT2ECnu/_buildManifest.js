@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/pr-preview-test//_next/:path+",
-        "destination": "/pr-preview-test/_next/:path+"
+        "source": "/nextjs-pages-preview-action//_next/:path+",
+        "destination": "/nextjs-pages-preview-action/_next/:path+"
       }
     ],
     "fallback": []
