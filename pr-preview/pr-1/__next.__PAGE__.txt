@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[59119,["/pr-preview-test/pr-preview/pr-1/_next/static/chunks/426147c510cd8efb.js"],"Image"]
+3:I[42897,["/pr-preview-test/pr-preview/pr-1/_next/static/chunks/3e61cbef2b632a62.js","/pr-preview-test/pr-preview/pr-1/_next/static/chunks/98288894a9c3fbe8.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"FxV_eTyx2uzRNukmqJSHf","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"flex min-h-screen flex-col items-center justify-center p-24","children":["Hello world from Govind Gupta",["$","div",null,{"children":["$","$L2",null,{"src":"https://avatars.githubusercontent.com/u/119047426?v=4","alt":"Vercel Logo","width":272,"height":72,"priority":true}]}]]}],[["$","script","script-0",{"src":"/pr-preview-test/pr-preview/pr-1/_next/static/chunks/426147c510cd8efb.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
