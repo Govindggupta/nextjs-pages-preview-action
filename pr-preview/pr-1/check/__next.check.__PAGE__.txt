@@ -1,5 +1,0 @@
-1:"$Sreact.fragment"
-2:I[42897,["/pr-preview-test/pr-preview/pr-1/_next/static/chunks/3e61cbef2b632a62.js","/pr-preview-test/pr-preview/pr-1/_next/static/chunks/98288894a9c3fbe8.js"],"OutletBoundary"]
-3:"$Sreact.suspense"
-0:{"buildId":"FxV_eTyx2uzRNukmqJSHf","rsc":["$","$1","c",{"children":[["$","div",null,{"className":"fixed top-10","children":"This is the check page "}],null,["$","$L2",null,{"children":["$","$3",null,{"name":"Next.MetadataOutlet","children":"$@4"}]}]]}],"loading":null,"isPartial":false}
-4:null
